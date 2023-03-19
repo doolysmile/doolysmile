@@ -1,16 +1,18 @@
-### Hi there 👋
+# 김치훈 입니다.
 
-<!--
-**doolysmile/doolysmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **_test !!_**
 
-Here are some ideas to get you started:
+> context1 <br/>
+> context2 <br/>
+> context3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+# 👩‍💻 _My Stats_
+
+<img src="https://github-readme-stats.vercel.app/api?username=doolysmile&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" width="400px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doolysmile" width="400px">
+
+<br/>
+<br/>
